@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "ts-node scratch pad setup optimized for VS Code",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdiplacido/ts-node-scratch-pad.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "repl": "ts-node"
